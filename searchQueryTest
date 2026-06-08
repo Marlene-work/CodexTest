@@ -34,7 +34,7 @@ if __name__ == "__main__":
     test_queries = ["cat", "dog", "mouse"]
     test_results = search_all(test_queries)
 
-    expected_results = [
+    expected_result = [
         "cat-0",
         "cat-1",
         "cat-2",
